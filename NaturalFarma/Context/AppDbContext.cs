@@ -16,3 +16,5 @@ namespace NaturalFarma.Context
 
     }
 }
+
+// RELACIONAMENTO COM BANCO DE DADOS 
