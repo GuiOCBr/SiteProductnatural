@@ -13,12 +13,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\ProjetosGitHub\\NaturalFarmaMVC\\NaturalFarma\\wwwroot\\images\\Curcuma.png",
+      "PackagePath": "staticwebassets\\images\\Curcuma.png"
+    },
+    {
+      "Id": "D:\\ProjetosGitHub\\NaturalFarmaMVC\\NaturalFarma\\wwwroot\\images\\Melatonina.png",
+      "PackagePath": "staticwebassets\\images\\Melatonina.png"
+    },
+    {
       "Id": "D:\\ProjetosGitHub\\NaturalFarmaMVC\\NaturalFarma\\wwwroot\\images\\cerebro.jpg",
       "PackagePath": "staticwebassets\\images\\cerebro.jpg"
     },
     {
-      "Id": "D:\\ProjetosGitHub\\NaturalFarmaMVC\\NaturalFarma\\wwwroot\\images\\remedio.jpg",
-      "PackagePath": "staticwebassets\\images\\remedio.jpg"
+      "Id": "D:\\ProjetosGitHub\\NaturalFarmaMVC\\NaturalFarma\\wwwroot\\images\\coezimaq10.png",
+      "PackagePath": "staticwebassets\\images\\coezimaq10.png"
+    },
+    {
+      "Id": "D:\\ProjetosGitHub\\NaturalFarmaMVC\\NaturalFarma\\wwwroot\\images\\magnesioLTreonato.png",
+      "PackagePath": "staticwebassets\\images\\magnesioLTreonato.png"
+    },
+    {
+      "Id": "D:\\ProjetosGitHub\\NaturalFarmaMVC\\NaturalFarma\\wwwroot\\images\\omega3.png",
+      "PackagePath": "staticwebassets\\images\\omega3.png"
     },
     {
       "Id": "D:\\ProjetosGitHub\\NaturalFarmaMVC\\NaturalFarma\\wwwroot\\js\\site.js",
