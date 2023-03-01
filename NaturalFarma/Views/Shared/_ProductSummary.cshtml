@@ -1,0 +1,8 @@
+﻿@model Product
+
+<div class="col-sm-4 col-md col-lg-4">
+    <p><img src="@Model.ImageUrl" /></p>
+    <p><b>Nome:</b> @Model.Name</p>
+    <p><b>Preço:</b> @Model.Price.ToString("c")</p>
+    <p><b>Descrição detalhada:</b> @Model.DetailedDescription</p>
+</div>

@@ -15,6 +15,7 @@ namespace NaturalFarma.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
